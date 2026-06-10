@@ -105,3 +105,7 @@ git push origin main
 - git 操作を後回しにすること（ファイル変更と git commit は不可分）
 - research-state.md を更新せずにセッションを終了すること
 - コンテキスト節約のため必要な処理を省略すること（省略する場合は明示する）
+
+---
+
+<!-- default branch: main（master から統一済み・2026-06-10）-->
