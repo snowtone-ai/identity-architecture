@@ -6,4 +6,6 @@
 | C-002 | アイデンティティの持続性 / Identity Persistence | 未成熟 | CL-001 | 2026-06-10 |
 | C-003 | アイデンティティの引力 / The Gravity of Identity | 未成熟 | CL-008 | 2026-06-11 |
 
+| C-004 | 組織アイデンティティ / Organizational Identity | 未成熟 | CL-009 | 2026-06-11 |
+
 登録手順: `_TEMPLATE.md` をコピー → 記入 → ここに1行追記 → 同一コミット
