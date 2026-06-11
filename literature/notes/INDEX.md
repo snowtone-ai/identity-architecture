@@ -47,3 +47,8 @@
 | L-043 | Elsbach & Kramer (1996) | CL-009（アイデンティティ脅威→保護行動・質的） | 要旨のみ | 2026-06-11 |
 | L-044 | Deng, Cheng, Qi & Deng (2023) | CL-009（価値一致→変革準備性・横断量的） | 要旨のみ | 2026-06-11 |
 | L-045 | Georgalis, Samaratunge, Kimberley & Lu (2015) | CL-009（手続き的公正→変革抵抗・代替モデル） | 要旨のみ | 2026-06-11 |
+| L-046 | Kangasniemi, Lappalainen, Kankainen & Tammelin (2015) | CL-003（健康成人 ACT RCT・身体活動DV・6ヶ月フォローアップ） | 要旨のみ | 2026-06-11 |
+| L-047 | Gloster, Walder, Levin, Twohig & Karekla (2020) | CL-003（ACT 20メタ分析統合・臨床集団中心・外挿ギャップ） | 要旨のみ | 2026-06-11 |
+| L-048 | Öst (2014) | CL-003（ACT メタ分析60 RCT・効果量小・健康成人証拠ゼロ） | 要旨のみ | 2026-06-11 |
+| L-049 | Han & Kim (2022) | CL-003（iACT メタ分析34 RCT・valued living 即時効果小・維持非有意） | 要旨のみ | 2026-06-11 |
+| L-050 | Unruh, Neubert, Wilhelm & Euteneuer (2022) | CL-003（健康成人職場 ACT メタ17 RCT・フォローアップ有効だが DV が価値優先順位でない） | 要旨のみ | 2026-06-11 |
