@@ -93,3 +93,8 @@
 | L-090 | Whetten (2006) | 概念異同確認・OIレビュー（Albert & Whetten 1985再精密化・C-004定義源・CL-009前提） | 書誌のみ | 2026-06-12 |
 | L-091 | Brown (2015) | 概念異同確認・Identity Workレビュー（組織文脈identity work・CL-006a/b関連・CL-003a異同） | 書誌のみ | 2026-06-12 |
 | L-092 | Maitlis & Christianson (2014) | 概念異同確認・Sensemakingレビュー（Weick後継・アイデンティティがsensemaking起点） | 書誌のみ | 2026-06-12 |
+| L-093 | Oyserman (2009) | CL-012 理論的根拠（IBM: action-readiness・procedural-readiness を実験的に示す） | 要旨のみ | 2026-06-12 |
+| L-094 | Oyserman (2024) | CL-012 境界条件記述（dynamic construction・顕現中のIDに限定） | 要旨のみ | 2026-06-12 |
+| L-095 | Hertz & Krettenauer (2016) | CL-012 部分的支持（道徳アイデンティティ→行動 r=.22 メタ分析・道徳ドメイン特化） | 要旨のみ | 2026-06-12 |
+| L-096 | Udall et al. (2021) | CL-012 部分的支持（個人ID→環境行動 r=.373 メタ分析・環境ドメイン特化） | 要旨のみ | 2026-06-12 |
+| L-097 | de Hoog & Pat-El (2024) | CL-012 支持候補（社会的ID→健康行動 N=112,112 メタ分析・全文照合待ち） | 要旨のみ | 2026-06-12 |
