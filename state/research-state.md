@@ -276,3 +276,13 @@
 - CL-003a/b/c §7 ステータス判断確定: 「ユーザー判断待ち」→「定式化済（未検証）維持」（文献空白≠原理的検証不能を明示）・§8 履歴追記
 - CL-007 §3 注記追加（R-019 対応）: 反証条件は将来条件（三要素統合×ΔR²設計が分野に不在）であることを明示
 - CL-004b §1 DV 限定注記追加（R-015/R-016 対応）: 「客観的行動記録」に限定・「組織コミットメント」をDV例から除外・態度/意図DVでの昇格禁止を注記
+
+### セッション12 追記（概念異同確認文献登録・2026-06-12）
+- L-088（Ellemers, Spears & Doosje 2002 SIT/SCTレビュー・OpenAlex W2129671918）登録完了
+- L-089（Akerlof & Kranton 2000 Economics and Identity・OpenAlex W2121005211）登録完了
+- L-090（Whetten 2006 Albert and Whetten Revisited・OpenAlex W2110430462）登録完了
+- L-091（Brown 2015 Identity Work・OpenAlex W1574187761）登録完了
+- L-092（Maitlis & Christianson 2014 Sensemaking・OpenAlex W4245597957）登録完了
+- literature/notes/INDEX.md: L-088〜L-092 追記完了
+- reading-queue.md: 概念異同確認 4 件を [x] に更新完了
+- **自律実行可能な残タスクは全件完了。**

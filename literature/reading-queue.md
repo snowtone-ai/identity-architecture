@@ -13,10 +13,10 @@
 - [x] **E-046 照合** Georgalis et al. (2015) 手続的公正→変革抵抗 — 完了（2026-06-12 セッション11）
 
 ## 中優先（概念の異同確認・憲章第8条対応）
-- [ ] 社会的アイデンティティ理論の主要レビュー論文を1本特定する（CL-008 R-051 対応：Stryker顕現性との弁別妥当性確立に必要）
-- [ ] Akerlof & Kranton (2000) Economics and Identity — 知的源流の原典確認
-- [ ] 組織アイデンティティ研究（Albert & Whetten 系譜）のレビューを1本特定する
-- [ ] Identity Work / Sensemaking のレビューを各1本特定する
+- [x] 社会的アイデンティティ理論の主要レビュー論文を1本特定する（→ L-088 Ellemers, Spears & Doosje 2002 登録済み・2026-06-12）
+- [x] Akerlof & Kranton (2000) Economics and Identity — 知的源流の原典確認（→ L-089 登録済み・2026-06-12）
+- [x] 組織アイデンティティ研究（Albert & Whetten 系譜）のレビューを1本特定する（→ L-090 Whetten 2006 登録済み・2026-06-12）
+- [x] Identity Work / Sensemaking のレビューを各1本特定する（→ L-091 Brown 2015・L-092 Maitlis & Christianson 2014 登録済み・2026-06-12）
 
 ## 低優先（背景・着想）
 - [ ] CL-003a/b/c 検証に適した介入研究設計論文（RCT × アイデンティティ再設計 × 6ヶ月フォローアップ）
