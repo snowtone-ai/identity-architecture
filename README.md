@@ -1,9 +1,9 @@
 # Identity Architecture Research OS v1.0
 
-単独研究者が Claude App（Pro）と Claude Code のみで
+単独研究者が Claude Appと Claude Code のみで
 「Identity Architecture」理論を長期的に構築・検証するための研究オペレーティングシステム。
 
-## 設計思想（30秒で理解する）
+## 設計思想
 
 本リポジトリの中核は **主張台帳（Claim Ledger）** である。
 
