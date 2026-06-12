@@ -88,3 +88,8 @@
 | L-085 | Oyserman et al. (2014) | CL-003a 最近接背景（IBM×健康・IV=顕現性操作・DV=健康行動・IA構造変化でない→E-068） | 要旨のみ | 2026-06-12 |
 | L-086 | Oyserman & Lewis (2017) | CL-003a 最近接背景（IBM×学業達成・IV=顕現性操作・DV=学業行動・IA構造変化でない→E-068） | 要旨のみ | 2026-06-12 |
 | L-087 | Choi (2016) | CL-004b 条件付き支持候補（PSM縦断×職業セクター選択・DV測定法未確認→E-069） | 要旨のみ | 2026-06-12 |
+| L-088 | Ellemers, Spears & Doosje (2002) | 概念異同確認・SITレビュー（SIT+SCT統合・Annual Review・CL-008 R-051弁別妥当性用） | 書誌のみ | 2026-06-12 |
+| L-089 | Akerlof & Kranton (2000) | 概念異同確認・知的源流（経済学的アイデンティティモデル・効用関数組み込み・IA源流確認） | 書誌のみ | 2026-06-12 |
+| L-090 | Whetten (2006) | 概念異同確認・OIレビュー（Albert & Whetten 1985再精密化・C-004定義源・CL-009前提） | 書誌のみ | 2026-06-12 |
+| L-091 | Brown (2015) | 概念異同確認・Identity Workレビュー（組織文脈identity work・CL-006a/b関連・CL-003a異同） | 書誌のみ | 2026-06-12 |
+| L-092 | Maitlis & Christianson (2014) | 概念異同確認・Sensemakingレビュー（Weick後継・アイデンティティがsensemaking起点） | 書誌のみ | 2026-06-12 |
