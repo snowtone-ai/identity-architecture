@@ -2,6 +2,8 @@
 
 単独研究者が Claude App と Claude Code のみで「Identity Architecture（IA）」理論を長期的に構築・検証するための研究オペレーティングシステム。
 
+Status: 継続開発中
+
 ---
 
 ## 設計思想
