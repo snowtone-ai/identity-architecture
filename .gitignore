@@ -6,3 +6,8 @@ Thumbs.db
 # 秘密情報
 .env
 .env.*
+.mcp.json
+.claude/settings.local.json
+.claude/settings.json
+service-account*.json
+credentials.json
